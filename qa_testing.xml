@@ -31,7 +31,7 @@
       </set>
       </sets>
     <offers>
-      <offer id="923950riserpk">
+      <offer>
         <name>Тестирование ПО и сайтов</name>
         <url>https://qa-irinaz.ru/</url>
         <price from="true">2000</price>
@@ -48,7 +48,7 @@
         <param name="Регион">Москва</param>
         <param name="Конверсия">1.935</param><!--Это произвольное число, оно не обязано быть от 0 до 1-->
         </offer>
- <offer id="923950riserpk">
+ <offer>
         <name>Разработка сайтов на Тильде</name>
         <url>https://qa-irinaz.ru/</url>
         <price from="true">5000</price>
